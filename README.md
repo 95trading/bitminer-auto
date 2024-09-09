@@ -1,4 +1,4 @@
-AUTO BOT FOR BITMINER - @bitminer
+# AUTO BOT FOR BITMINER - @bitminer
 
 # Feature
 - [x] Automatically tap out of energy.
