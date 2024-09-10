@@ -22,7 +22,7 @@
 - (It must be query_id, if anyone gets user=, go back to step 2)
 - 6️⃣ Each query_id is on 1 line in the dulieu.txt file
 - 7️⃣ Each proxy is on 1 line in the proxy.txt file
-- 8️⃣ Proxy format: http://username:password:proxy_ip:proxy_port
+- 8️⃣ Proxy format: ip_address:port:username:password
 - 👉🏻 Get 10 free proxies at: www.webshare.io (https://www.webshare.io/?referral_code=2g0r9y1z06ly)
 
 # Example proxy:
